@@ -10,7 +10,7 @@ namespace MsbuildLibrary
     {
         public static string HelloWorld()
         {
-            return "Hello world";
+            return "Hello world3";
             
         }
     }
